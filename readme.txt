@@ -1,2 +1,2 @@
-Git is a free software.
-My name is Cyh
+Git is a distributed version control system.
+Git is a free softwre.
